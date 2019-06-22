@@ -1,0 +1,123 @@
+[
+  {
+    "id": 1,
+    "name": "Bulbasaur",
+    "type": [
+      "Grass",
+      "Poison"
+    ],
+      "HP": 45,
+      "Attack": 49,
+      "Defense": 49,
+      "Sp. Attack": 65,
+      "Sp. Defense": 65,
+      "Speed": 45
+  },
+  {
+    "id": 2,
+    "name": "Ivysaur",
+    "type": [
+      "Grass",
+      "Poison"
+    ],
+      "HP": 60,
+      "Attack": 62,
+      "Defense": 63,
+      "Sp. Attack": 80,
+      "Sp. Defense": 80,
+      "Speed": 60
+  },
+  {
+    "id": 3,
+    "name": "Venusaur",
+    "type": [
+      "Grass",
+      "Poison"
+    ],
+      "HP": 80,
+      "Attack": 82,
+      "Defense": 83,
+      "Sp. Attack": 100,
+      "Sp. Defense": 100,
+      "Speed": 80
+  },
+  {
+    "id": 4,
+    "name": "Charmander",
+    "type": [
+      "Fire"
+    ],
+      "HP": 39,
+      "Attack": 52,
+      "Defense": 43,
+      "Sp. Attack": 60,
+      "Sp. Defense": 50,
+      "Speed": 65
+  },
+  {
+    "id": 5,
+    "name": "Charmeleon",
+    "type": [
+      "Fire"
+    ],
+      "HP": 58,
+      "Attack": 64,
+      "Defense": 58,
+      "Sp. Attack": 80,
+      "Sp. Defense": 65,
+      "Speed": 80
+  },
+  {
+    "id": 6,
+    "name": "Charizard",
+    "type": [
+      "Fire",
+      "Flying"
+    ],
+      "HP": 78,
+      "Attack": 84,
+      "Defense": 78,
+      "Sp. Attack": 109,
+      "Sp. Defense": 85,
+      "Speed": 100
+  },
+  {
+    "id": 7,
+    "name": "Squirtle",
+    "type": [
+      "Water"
+    ],
+      "HP": 44,
+      "Attack": 48,
+      "Defense": 65,
+      "Sp. Attack": 50,
+      "Sp. Defense": 64,
+      "Speed": 43
+  },
+  {
+    "id": 8,
+    "name": "Wartortle",
+    "type": [
+      "Water"
+    ],
+      "HP": 59,
+      "Attack": 63,
+      "Defense": 80,
+      "Sp. Attack": 65,
+      "Sp. Defense": 80,
+      "Speed": 58
+  },
+  {
+    "id": 9,
+    "name": "Blastoise",
+    "type": [
+      "Water"
+    ],
+      "HP": 79,
+      "Attack": 83,
+      "Defense": 100,
+      "Sp. Attack": 85,
+      "Sp. Defense": 105,
+      "Speed": 78
+  }
+]
